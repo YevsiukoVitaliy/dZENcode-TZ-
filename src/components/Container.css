@@ -1,0 +1,10 @@
+.component-container {
+    position: relative;
+    height: calc(100vh - 4.8rem);
+    background-color: #F0F3F5;
+    margin-top: 4.8rem;
+    padding-top: 4rem;
+    margin-left: 12.25rem;
+    padding-left: 7.95rem;
+    padding-right: 10.2rem;
+}
